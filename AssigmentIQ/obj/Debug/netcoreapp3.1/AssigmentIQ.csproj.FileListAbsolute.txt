@@ -1,0 +1,14 @@
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.exe
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.dll
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.csproj.AssemblyReference.cache
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.AssemblyInfoInputs.cache
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.AssemblyInfo.cs
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.csproj.CoreCompileInputs.cache
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.dll
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.pdb
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.deps.json
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.runtimeconfig.json
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.runtimeconfig.dev.json
+D:\testCode\AssigmentIQ\bin\Debug\netcoreapp3.1\AssigmentIQ.pdb
+D:\testCode\AssigmentIQ\obj\Debug\netcoreapp3.1\AssigmentIQ.genruntimeconfig.cache
